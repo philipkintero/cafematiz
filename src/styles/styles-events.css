@@ -1,0 +1,93 @@
+#contenerdor_eventos{
+    height: 1040px;
+}
+
+
+.modulos_titulo {
+    background: url("../images/home/cup-coffee.png") no-repeat left top;
+    color: #CABB7D;
+    font-family: 'AlexaStdRegular';
+    font-size: 34px;
+    font-style: italic;
+    font-weight: normal;
+    height: 40px;
+    margin: 15px 0 12px 7px;
+    padding-left: 30px;
+}
+
+.madera-eventos{
+    height: 888px;
+}
+
+.event-image-big {
+	background: url("../images/eventos/bg-foto.png") no-repeat scroll 0 0 transparent;
+    height: 271px;
+    padding: 17px 6px 11px;
+    width: 577px;
+}
+
+.events-gallery {
+	background: url("../images/eventos/bg-galeria.png") no-repeat scroll 0 0 transparent;
+	width:585px;
+	height:186px;
+	margin-bottom: 20px;
+}
+
+.thumb {
+	float: left;
+	margin-right: 13px;
+	margin-top: 11px;
+}
+
+#backward_modulos2 {
+    background: url("../images/home/arrow-left.png") no-repeat scroll 0 0 transparent;
+    margin-left: 10px;
+    margin-right: 5px;
+}
+
+#forward_modulos2 {
+    background: url("../images/home/arrow-right.png") no-repeat scroll 0 0 transparent;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#backward_modulos2, #forward_modulos2 {
+    cursor: pointer;
+    display: block;
+    float: left;
+    height: 28px;
+    margin-top: 65px;
+    position: relative;
+    text-indent: -9999em;
+    width: 28px;
+}
+
+.gallery-thumbs {
+	float: left;
+	margin-left: 14px;
+}
+
+.eventos_titulo {
+	background: url("../images/eventos/cam-icon.png") no-repeat scroll left 13px transparent;
+    color: #CABB7D;
+    font-family: 'AlexaStdRegular';
+    font-size: 34px;
+    font-style: italic;
+    font-weight: normal;
+    height: 40px;
+    margin: 15px 0 12px 15px;
+    padding-left: 30px;
+}
+
+.list-events li a {
+    background: url("../images/eventos/dotted-line-events.png") no-repeat scroll 13px 5px transparent !important;
+    color: #D7C885;
+    display: block;
+    font-style: italic;
+    padding-left: 41px;
+    text-decoration: none;
+}
+
+.event-left-title {
+	margin-top:20px !important;
+}

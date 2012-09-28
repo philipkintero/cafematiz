@@ -1,0 +1,57 @@
+.video-image-big {
+	background: url("../images/maestro/bg-video-big.png") no-repeat scroll 0 0 transparent;
+    height: 377px;
+    padding: 18px 20px 14px;
+    width: 621px;
+}
+
+.desc-left-video {
+	width: 240px;
+}
+
+.barista-content-left {
+	padding-right: 0;
+    width: 663px;
+}
+
+.thumbs-videos ul {
+	padding:0px;
+	margin:0px;
+}
+
+.thumbs-videos li {
+	list-style:none;
+	background: url("../images/maestro/bg-video-peq.png") no-repeat scroll 0 0 transparent;
+	margin-left: 6px;
+    padding: 11px 9px;
+	float:left;
+}
+
+
+.thumbs-videos {
+	margin:5px 0;
+}
+
+.video-left-title {
+	background:none !important;
+	margin: 0 0 0 14px !important;
+    padding: 0 !important;
+}
+
+.txt-desc-video {
+	background:url("../images/news/line-separator-news.png") repeat-x 0 0;
+	color:#c6c6c6;
+	font-style:italic;
+	margin-top: 9px;
+    padding: 9px 17px 3px;
+	
+}
+
+.share-video {
+	background: url("../images/maestro/bg-compartir.png") no-repeat 0 0;
+    height: 34px;
+    margin: 14px 0;
+    padding-left: 35px;
+    padding-top: 7px;
+    width: 204px;
+}
